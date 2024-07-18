@@ -1,0 +1,21 @@
+{
+  "name": "anveshgandham_js3_lab",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvesh1017/AnveshGandham_JS3_Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvesh1017/AnveshGandham_JS3_Lab/issues"
+  },
+  "homepage": "https://github.com/anvesh1017/AnveshGandham_JS3_Lab#readme"
+}
